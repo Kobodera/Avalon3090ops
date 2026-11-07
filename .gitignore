@@ -1,0 +1,14 @@
+# Model weights and downloads (stay on HuggingFace, ~90 GB)
+models/
+staging/
+
+# Avalon source clone + build tree
+Avalon/
+
+# Test artifacts
+*.png
+
+# PowerShell / editor cruft
+*.log
+.vs/
+*.user
